@@ -1,5 +1,7 @@
 ## Change Log for MyApp Version 2.5.0 - Released on 2024-03-19
 
+![Alt text for the image](https://plus.unsplash.com/premium_photo-1661438314870-d819b854b58e?q=80&w=3870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
 ### New Features
 
 - **Accounts Module:** Users can now sign up and log in using their email address.
@@ -31,3 +33,4 @@
 
 - **Mobile App:** A companion mobile app for iOS and Android is in development, expected release in Q3 2024.
 - **Integration with Third-party Services:** We are working on integrations with popular third-party services to streamline workflows.
+
